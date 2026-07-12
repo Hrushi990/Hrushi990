@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Hrushikesh**
 
 ### 🚀 AI & Machine Learning Engineer in Progress
-### 💻 Full Stack Developer • 🤖 AI Enthusiast • ☁️ Future MLOps Engineer
+### 💻 Full Stack Developer • 🤖 AI Enthusiast • ☁️ Future ML Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Products...;Training+Models+%F0%9F%A7%A0;Learning+Every+Day...;Future+Machine+Learning+Engineer;Open+Source+Enthusiast;Welcome+to+my+GitHub+%F0%9F%9A%80"/>
 
@@ -26,7 +26,7 @@ class Hrushikesh:
         self.interests = [
             "Machine Learning",
             "Deep Learning",
-            "Computer Vision",
+            "Flutter",
             "Generative AI",
             "MLOps",
             "Full Stack Development"
@@ -61,29 +61,14 @@ class Hrushikesh:
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,firebase"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 
 </div>
 
----
-
-# 🎯 Current Mission
-
-🧠 Master Machine Learning
-
-⚡ Build Production AI Projects
-
-📚 Solve DSA Problems Daily
-
-☁️ Learn MLOps & Cloud
-
-🚀 Contribute to Open Source
-
-💼 Land a High-Paying ML Internship
 
 ---
 
@@ -123,11 +108,10 @@ class Hrushikesh:
 
 ## 💭 Philosophy
 
-> **"First, solve the problem. Then, write the code."**
+> **"Every bug is a lesson. Every project is progress..."**
 
 ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=120&section=footer"/>
 

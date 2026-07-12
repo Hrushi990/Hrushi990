@@ -44,59 +44,7 @@ Become a Machine Learning Engineer and build AI products used by millions.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,tensorflow,pytorch,docker,git,github,linux,vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,postgres,firebase,tensorflow,pytorch,docker,git,github,linux,vscode"/>
 
 </p>
 
@@ -124,21 +72,6 @@ Become a Machine Learning Engineer and build AI products used by millions.
 - AWS
 - DSA
 
----
-
-# 🎯 2026 Goals
-
-✅ Master Machine Learning
-
-✅ Build 10+ AI Projects
-
-✅ Contribute to Open Source
-
-✅ Solve 300+ DSA Problems
-
-✅ Land a High-Paying ML Internship
-
-✅ Build AI SaaS Products
 
 ---
 
@@ -146,27 +79,20 @@ Become a Machine Learning Engineer and build AI products used by millions.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Hrushi990/Hrushi990">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/hrushikesh-patil-04477b382">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:hrushi.bizx@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
 
 ---
 

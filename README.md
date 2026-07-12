@@ -1,103 +1,134 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hrushikesh</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Hrushikesh**
 
-<h3 align="center">
-Computer Engineering (AI & ML) Student • Aspiring Machine Learning Engineer • Full Stack Developer
-</h3>
+### 🚀 AI & Machine Learning Engineer in Progress
+### 💻 Full Stack Developer • 🤖 AI Enthusiast • ☁️ Future MLOps Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;AI+Developer;Full+Stack+Developer;Building+AI+Products;Always+Learning+Something+New+🚀"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Products...;Training+Models+%F0%9F%A7%A0;Learning+Every+Day...;Future+Machine+Learning+Engineer;Open+Source+Enthusiast;Welcome+to+my+GitHub+%F0%9F%9A%80"/>
 
----
+<br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Computer Engineering (AI & Machine Learning) Student
+```python
+class Hrushikesh:
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🚀 Building AI applications and Full Stack Projects
-
-📚 Currently learning
-
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- MLOps
-- System Design
-
-🎯 Goal
-
-Become a Machine Learning Engineer and build AI products used by millions.
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,postgres,firebase,tensorflow,pytorch,docker,git,github,linux,vscode"/>
-
-</p>
+    def __init__(self):
+        self.education = "B.E. Computer Engineering (AI & ML)"
+        self.location = "India 🇮🇳"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "MLOps",
+            "Full Stack Development"
+        ]
+        self.currently_learning = [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-Learn",
+            "Docker",
+            "Kubernetes"
+        ]
+        self.goal = "Build AI products that impact millions of people."
+```
 
 ---
 
-# 🚀 Current Focus
+# ⚡ Tech Stack
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ☁️ MLOps
-- 📊 Data Science
-- 🌐 Full Stack Development
-- 💡 Open Source
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
+
+### AI • ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Current Mission
 
-- Python for AI
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Docker
-- Kubernetes
-- AWS
-- DSA
+🧠 Master Machine Learning
 
+⚡ Build Production AI Projects
+
+📚 Solve DSA Problems Daily
+
+☁️ Learn MLOps & Cloud
+
+🚀 Contribute to Open Source
+
+💼 Land a High-Paying ML Internship
 
 ---
 
-# 🌐 Connect With Me
+# 🌱 Currently Learning
 
-<p align="center">
+```text
+██████████░░░░░░░░░░  Python
+████████░░░░░░░░░░░░  Machine Learning
+███████░░░░░░░░░░░░░  Deep Learning
+██████░░░░░░░░░░░░░░  MLOps
+█████░░░░░░░░░░░░░░░  Kubernetes
+```
 
-<a href="https://github.com/Hrushi990/Hrushi990">
-<img src="https://skillicons.dev/icons?i=github"/>
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Hrushi990">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hrushikesh-patil-04477b382">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:hrushi.bizx@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-</p>
-
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ "Code. Learn. Build. Repeat."
+## 💭 Philosophy
 
-</h3>
+> **"First, solve the problem. Then, write the code."**
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=120&section=footer"/>
+
+</div>

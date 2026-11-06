@@ -9,7 +9,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWluZGg2dnZ4aGRwbHl5ZzlsYmF2bDNqN2c1cWNvendvMG41enI0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/1NF77lkxyXebfixiup/giphy.gif" width="240" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hrushi990&theme=github_dark" height="140" />
   <img src="https://streak-stats.demolab.com/?user=Hrushi990&theme=dark&hide_border=true&background=0D1117&ring=D7FF3E&fire=D7FF3E&currStreakLabel=D7FF3E&currStreakNum=ffffff&sideNums=ffffff&sideLabels=D7FF3E&dates=888888" height="140" />
 </p>
 <p align="center">

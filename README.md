@@ -16,9 +16,9 @@
   <img src="https://ghchart.rshah.org/D7FF3E/Hrushi990" />
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/hrushi.bizx">instagram</a> &middot;
-  <a href="https://www.linkedin.com/in/hrushikesh-patil-04477b382">linkedin</a> &middot;
-  <a href="mailto:hrushi.bizx@gmail.com">email</a>
+  <a href="https://www.instagram.com/hrushi.bizx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hrushikesh-patil-04477b382"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hrushi.bizx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
